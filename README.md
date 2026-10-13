@@ -139,8 +139,4 @@ To test real-time communication on a single machine:
 4. Click **Riddhi Patel** (or create another user account).
 5. Send messages between both tabs to see instant delivery, typing indicators, online status updates, and audio chimes.
 
----
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
