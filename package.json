@@ -1,0 +1,27 @@
+{
+  "name": "real-time-chat-app",
+  "version": "1.0.0",
+  "description": "Full-stack real-time messaging application with React, Tailwind CSS, Node.js, Express, and Socket.io",
+  "type": "module",
+  "scripts": {
+    "start": "node backend/index.js",
+    "dev:backend": "npm --prefix backend run dev",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "install:all": "npm install --prefix backend && npm install --prefix frontend"
+  },
+  "keywords": [
+    "react",
+    "tailwind",
+    "daisyui",
+    "chat",
+    "real-time",
+    "socket.io",
+    "websocket",
+    "express",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "",
+  "license": "MIT"
+}
